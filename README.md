@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://restro-cafe-gersem-backend.herokuapp.com/) her
 1. Git Clone
 
 ```
-git clone 
+git clone https://github.com/habtanub/restro.git
 ```
 
 2. Backend setting
